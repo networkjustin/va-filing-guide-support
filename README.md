@@ -45,7 +45,7 @@ The VA Filing Guide:
 
 A full privacy policy is available here:
 
-🔗 https://networkjustin.github.io/va-filing-guide-support/privacy
+🔗 [https://networkjustin.github.io/va-filing-guide-support/privacy](https://networkjustin.github.io/va-filing-guide-support/privacy.md)
 
 ---
 
